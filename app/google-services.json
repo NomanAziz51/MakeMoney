@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873372466107",
+    "firebase_url": "https://make-money-955c7.firebaseio.com",
+    "project_id": "make-money-955c7",
+    "storage_bucket": "make-money-955c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873372466107:android:42b5c458554b41144ea29e",
+        "android_client_info": {
+          "package_name": "com.developer.makemoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873372466107-r5cmd2a7n5stf5v72meg3pb9m6v9n8s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9GoLNgKdwZsNrqoCxfbngr81F3c820yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873372466107-r5cmd2a7n5stf5v72meg3pb9m6v9n8s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

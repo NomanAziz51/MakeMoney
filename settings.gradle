@@ -1,0 +1,3 @@
+include ':luckWheel'
+include ':app'
+rootProject.name = "MakeMoney"
